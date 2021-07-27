@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(6, 99, 161);
+    color: white;
+    text-align: center;
+  
+}
+.Content{
+    overflow: hidden;
+    margin: 30px;
+
+}
+.Aside{
+    width: 19%;
+    height: 500px;
+    background-color: red;
+    float: left;
+    color: white;
+    text-align: center;
+    font-size: 31px;
+}
+.Article{
+    width: 79%;
+    height: 500px;
+    background-color: rgb(223, 131, 11);
+    float:right;
+    margin-left: 12px;
+    text-align: center;
+    color: white;
+    font-size: 22px;
+}
+.img1 {
+    background: red;
+    width: 20%;
+    height: 160px;
+    float: left;
+    margin-top: 280px;
+    margin-left: 110px;
+}
+
+.img2 {
+    background: red;
+    width: 20%;
+    height: 160px;
+    float: left;
+    margin-top: 280px;
+    margin-left: 70px;
+}
+
+.img3 {
+    background: red;
+    width: 20%;
+    height: 160px;
+    float: left;
+    margin-top: 280px;
+    margin-left: 70px;
+}
+footer{
+    background-color:rgb(6, 99, 161) ;
+    color: white;
+    height: 100px;
+    text-align: center;
+}
